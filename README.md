@@ -1,6 +1,6 @@
 ## Landing Page with Smooth Scrolling via smooth-scroll library
 
-###### Landing Page Template 2
+###### Landing Page Template 3
 
 ---
 
