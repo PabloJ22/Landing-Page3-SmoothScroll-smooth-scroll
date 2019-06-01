@@ -59,12 +59,17 @@ section {
   scroll-snap-align: center;
 }
 
-section#about {
+section#home {
   align-items: center;
   padding-bottom: 22rem;
 }
 
-section#service {
+section#about {
+  align-items: center;
+  padding-top: 3rem;
+}
+
+section#contact {
   align-items: center;
   padding-bottom: 6rem;
 }
@@ -79,21 +84,21 @@ section p {
 
 /* Section Images */
 section#home {
-  background: url('https://images.wallpaperscraft.com/image/astronaut_art_space_129529_1600x900.jpg') no-repeat center center/cover;
+  background: url('https://avante.biz/wp-content/uploads/Pictures-Of-The-Ocean-Wallpapers/Pictures-Of-The-Ocean-Wallpapers-029.jpg') no-repeat center center/cover;
   ;
 }
 
 section#about {
-  background: url('https://avante.biz/wp-content/uploads/HD-1600x900-Wallpapers/HD-1600x900-Wallpapers-013.jpg') no-repeat center center/cover;
+  background: url('https://images8.alphacoders.com/822/thumb-1920-822993.jpg') no-repeat center center/cover;
   ;
 }
 
 section#service {
-  background: url('https://images.wallpaperscraft.com/image/balloon_aerostat_space_129524_1600x900.jpg') no-repeat center center/cover;
+  background: url('https://images.wallpaperscraft.com/image/ocean_water_underwater_126683_1600x900.jpg') no-repeat center center/cover;
   ;
 }
 
 section#contact {
-  background: url('http://wallpoper.com/images/00/36/92/04/outer-space_00369204.jpg') no-repeat center center/cover;
+  background: url('https://wallpaperbro.com/img/50931.jpg') no-repeat center center/cover;
   ;
 }
