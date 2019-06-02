@@ -10,4 +10,4 @@ Created from scratch.
 > CSS3,
 > smooth-scroll library
 
-![]()
+![](/images/LP-using-smooth-scroll-library.gif)
